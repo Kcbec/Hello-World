@@ -1,9 +1,6 @@
 # Hello-World
 Test. 
 
-<main>
-  <body>
-  <h1 style="Font-color:Blue;>I was told to write something here to prove I was here</h1>
-    <h2>I hope this is sufficent</h2>
-  </body>
-  </main>
+<h3>Just</h3>
+<h2>For</h2>
+<h1>FUN</h1>
